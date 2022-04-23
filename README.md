@@ -1,2 +1,2 @@
-# detectron2_instance_segmentation_demo02
-detectron2_instance_segmentation_demo
+# A framework for RQD calculation based on deep learning
+A framework for RQD calculation based on deep learning
